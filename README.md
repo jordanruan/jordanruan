@@ -19,9 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jordanruan)](https://github.com/jordanruan) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordanruan//)](https://www.linkedin.com/in/jordanruan/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordanruant@gmail.com
-)](mailto:jordanruant@gmail.com)
-
+<a href="https://codepen.io/https://codepen.io/jordan-ruan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/jordan-ruan" height="30" width="40" /></a>
+<a href="https://twitter.com/jordanruan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jordanruan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jordanruan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jordanruan" height="30" width="40" /></a>
+<a href="https://fb.com/jordanruan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jordanruan" height="30" width="40" /></a>
+<a href="https://instagram.com/jordanruan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jordanruan" height="30" width="40" /></a>
+<a href="https://discord.gg/JordanR#9302" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="JordanR#9302" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
