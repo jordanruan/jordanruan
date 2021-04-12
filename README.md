@@ -36,5 +36,5 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jordanruan&show_icons=true&locale=en" alt="jordanruan" style="max-width:100%;" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanruan&show_icons=true&locale=en&layout=compact" alt="jordanruan" style="max-width:100%;margin-left: 6%; /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanruan&show_icons=true&locale=en&layout=compact" alt="jordanruan" style="margin-left: 6%; /></p>
 
