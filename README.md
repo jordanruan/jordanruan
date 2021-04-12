@@ -34,7 +34,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30" style="max-width:100%;" /> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" style="max-width:100%;" /> </a> </p>
 
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jordanruan&show_icons=true&locale=en" alt="jordanruan" style="max-width:100%;" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jordanruan&show_icons=true&locale=en" alt="jordanruan" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanruan&show_icons=true&locale=en&layout=compact" alt="jordanruan" /></p>
 
