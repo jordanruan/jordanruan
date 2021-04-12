@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jordanruan](https://github.com/jordanruan)
 
-- 💬 Ask me about **html, css, project extensio & scientific research**
+- 💬 Ask me about **html, css, project extension & scientific research**
 
 - 📫 How to reach me **jordanruan@hotmail.com**
 
