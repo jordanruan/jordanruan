@@ -3,19 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanruan&label=Profile%20views&color=0e75b6&style=flat" alt="jordanruan" /> </p>
 
-- 🔭 I’m currently working on **challenges to improve my skills**
+- 🔭 Atualmente, estou trabalhando em desafios para **melhorar minhas habilidades**
 
-- 🌱 I’m currently learning **react, android studio, javascript & hardskills**
+- 🌱 Atualmente estou aprendendo **html,css,react, android studio, javascript, react native & hardskills**
 
-- 👯 I’m looking to collaborate on **university extension projects**
+- 👯 Eu colaboro em  **projetos de extensão universitária**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jordanruan](https://github.com/jordanruan)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/jordanruan](https://github.com/jordanruan)
 
-- 💬 Ask me about **html, css, project extension & scientific research**
+- 💬 Pergunte-me sobre **html, css, pacote adobe & pesquisa científica**
 
-- 📫 How to reach me **jordanruan@hotmail.com**
+- ⚡ Fato engraçado: **corrida ao som de uma boa música**
 
-- ⚡ Fun fact **running with music**
+- 📫 Como me encontrar **jordanruan@hotmail.com**
+
+
 
 #### let's connect 👇🏽
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jordanruan)](https://github.com/jordanruan) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordanruan//)](https://www.linkedin.com/in/jordanruan/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordanruant@gmail.com
