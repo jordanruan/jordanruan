@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Jordan Ruan</h1>
-<h3 align="center">Um desenvolvedor de front-end do Brasil</h3>
+<h3 align="center">Um desenvolvedor front-end do Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanruan&label=Profile%20views&color=0e75b6&style=flat" alt="jordanruan" /> </p>
 
