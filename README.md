@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente, estou trabalhando em desafios para **melhorar minhas habilidades**
 
-- 🌱 Aprendendo **html, css, react, android studio, javascript, react native & hardskills**
+- 🌱 Aprendendo **html, css, react, javascript, android studio, react native & hardskills**
 
 - 👯 Eu colaboro em  **projetos de extensão universitária**
 
