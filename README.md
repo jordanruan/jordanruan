@@ -40,11 +40,20 @@
         
 </p>
 
-<p align="center">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=jordanruan&show_icons=true&locale=en" alt="jordanruan" />
-    <p align="center">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanruan&show_icons=true&locale=en&layout=compact" alt="jordanruan" />
-</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=teteusaraujo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
 </p>
 
 
