@@ -17,11 +17,11 @@
 
 - 📫 Como me encontrar **jordanruan@hotmail.com**
 
-<h1 align ="center"> Let's Connect 👇🏽 </h1>
+### Let's Connect 👇🏽
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jordanruan)](https://github.com/jordanruan) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordanruan//)](https://www.linkedin.com/in/jordanruan/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordanruant@gmail.com
 )](mailto:jordanruant@gmail.com)
 
-<h1 align="center">Languague and Tools <h3>
+### Languague and Tools 
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
