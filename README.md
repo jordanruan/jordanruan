@@ -9,7 +9,7 @@
 
 - 👯 Eu colaboro em  **projetos de extensão universitária**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em ![Github Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://jordanruan.github.io/portfolio/)
+- 👨‍💻 Todos os meus projetos estão disponíveis ![Github Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://jordanruan.github.io/portfolio/)
 
 - 💬 Pergunte-me sobre **html, css, typescript, angular, firebase**
 
