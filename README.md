@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanruan&label=Profile%20views&color=0e75b6&style=flat" alt="jordanruan" /> </p>
 
-- 🔭 Atualmente, estou trabalhando em desafios para **melhorar minhas habilidades**
+- 🔭 Atualmente, estou trabalhando em desafios para **melhorar minhas habilidades abaixo**
 
 - 🌱 Aprendendo **kubernetes, docker, virtual machine, cloud**
 
