@@ -5,13 +5,13 @@
 
 - 🔭 Atualmente, estou trabalhando em desafios para **melhorar minhas habilidades**
 
-- 🌱 Aprendendo **react, javascript, android studio, react native**
+- 🌱 Aprendendo **kubernetes, docker, virtual machine, cloud**
 
 - 👯 Eu colaboro em  **projetos de extensão universitária**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/jordanruan](https://github.com/jordanruan)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/jordanruan/portfolio](https://github.com/jordanruan/portfolio)
 
-- 💬 Pergunte-me sobre **html, css, pacote adobe & pesquisa científica**
+- 💬 Pergunte-me sobre **html, css, typescript, angular, firebase**
 
 - ⚡ Fato engraçado: **corrida ao som de uma boa música**
 
