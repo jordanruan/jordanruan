@@ -11,7 +11,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em https://jordanruan.github.io/portfolio/
 
-- 💬 Pergunte-me sobre **html, css, javascript, typescript, angular, firebase**
+- 💬 Pergunte-me sobre **html, css, javascript, react, angular, firebase**
 
 - ⚡ Fato engraçado: **corrida ao som de uma boa música**
 
