@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente, estou trabalhando em desafios para **melhorar minhas habilidades abaixo**
 
-- 🌱 Aprendendo **kubernetes, docker, virtual machine e google cloud**
+- 🌱 Aprendendo **a documentação do greensock.com**
 
 - 👯 Eu colaboro em  **projetos de extensão universitária**
 
