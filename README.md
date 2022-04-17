@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente, estou trabalhando em desafios para **melhorar minhas habilidades abaixo**
 
-- 🌱 Aprendendo **animações para angular**
+- 🌱 Aprendendo **lib de animações para angular**
 
 - 👯 Eu colaboro em  **projetos de extensão universitária**
 
